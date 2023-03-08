@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
+
         string palavra;
         int cont_vogal = 0;
         int cont_consoante = 0;
